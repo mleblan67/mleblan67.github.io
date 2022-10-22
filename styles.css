@@ -35,6 +35,12 @@ body {
       margin: auto;
       margin-top: 10px;
     }
+    .product {
+      border: 1px solid #009444;
+      border-radius: 12px;
+      padding: 30px;
+      width: 500px;
+    }
   }
 
 /*---- product gallery ----*/
